@@ -1,4 +1,4 @@
-https://foxieraven.github.io/cooties/index.html
+cooties: https://foxieraven.github.io/cooties/index.html
 
 
 
